@@ -8,4 +8,10 @@
 
 
 // DOCUMENT READY FUNCTION BELOW
+$("shoot").click(function(){
 
+
+
+
+
+}
