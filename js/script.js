@@ -11,7 +11,7 @@
 $("shoot").click(function(){
 
 
-
+console.log("hi");
 
 
 }
